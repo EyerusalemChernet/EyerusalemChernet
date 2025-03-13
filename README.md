@@ -11,13 +11,13 @@ I'm a 4th-year Software Engineering student passionate about building innovative
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
-- **[Project Name 1](link-to-repo):** A brief description of the project.
-- **[Project Name 2](link-to-repo):** A brief description of the project.
-- **[Project Name 3](link-to-repo):** A brief description of the project.
+- **[Movie-Series Web App](https://github.com/EyerusalemChernet/Movie-Series-web.git):** 
+- **[Expense Tracker](https://github.com/EyerusalemChernet/Expense-Tracker.git):** 
+
 
 ## 📫 Let's Connect
 - LinkedIn: (https://www.linkedin.com/in/eyerusalem-chernet-55bb01318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- Email: your.email@example.com
+- Email: Jerusalemroronoa@gmail.com
 
 
 
