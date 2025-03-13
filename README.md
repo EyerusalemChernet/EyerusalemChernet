@@ -7,7 +7,7 @@ I'm a 4th-year Software Engineering student passionate about building innovative
 - **Web Development:** Vue, NuxtJS, HTML/CSS
 - **Databases:** PostgrSQL
 - **Tools:** Git, Docker, VS Code
-- **Other Interests:** Cyber Security, Machine Learning, Cloud Computing, DevOps
+- **Other Interests:** Cyber Security, Machine Learning, DevOps
 
 ## 🚀 Projects
 Here are some of the projects I've worked on:
