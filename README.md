@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Eyerusalem Chernet]
+# Hi there 👋, I'm Eyerusalem Chernet
 
 I'm a 4th-year Software Engineering student passionate about building innovative solutions. I'm currently seeking internship opportunities to further develop my skills and gain real-world experience.
 
