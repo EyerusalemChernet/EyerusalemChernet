@@ -4,7 +4,7 @@ I'm a 4th-year Software Engineering student passionate about building innovative
 
 ## 🔧 Technologies & Tools
 - **Languages:** Java, JavaScript
-- **Web Development:** Vue, NuxtJS, HTML/CSS
+- **Web Development:** Vue, React, Next JS, Express, Node JS, HTML/CSS
 - **Databases:** PostgrSQL
 - **Tools:** Git, Docker, VS Code
 - **Other Interests:** Cyber Security, Machine Learning, DevOps
